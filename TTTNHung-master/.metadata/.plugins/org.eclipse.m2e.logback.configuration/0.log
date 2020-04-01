@@ -1,0 +1,22 @@
+2020-04-01 19:17:50,056 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-01 19:18:16,249 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caigicungco:API:1.0 @ C:\Users\Hung_LOL\Downloads\TTTNHung-master\TTTNHung-master\pom.xml.
+2020-04-01 19:18:22,083 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TTTNHung-master/src/main/java
+2020-04-01 19:18:22,084 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TTTNHung-master/src/main/resources
+2020-04-01 19:18:22,137 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TTTNHung-master/src/main/resources
+2020-04-01 19:18:22,141 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TTTNHung-master/src/test/java
+2020-04-01 19:18:27,946 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2020-04-01 19:18:47,827 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-01 19:18:48,996 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caigicungco:API:1.0 @ C:\Users\Hung_LOL\Downloads\TTTNHung-master\TTTNHung-master\pom.xml.
+2020-04-01 19:18:51,699 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TTTNHung-master/src/main/java
+2020-04-01 19:18:51,700 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TTTNHung-master/src/main/resources
+2020-04-01 19:18:51,702 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TTTNHung-master/src/main/resources
+2020-04-01 19:18:51,705 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TTTNHung-master/src/test/java
+2020-04-01 19:18:52,615 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-04-01 20:06:00,980 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-01 20:06:10,185 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caigicungco:API:1.0 @ C:\Users\Hung_LOL\Downloads\TTTNHung-master\TTTNHung-master\pom.xml.
+2020-04-01 20:06:18,554 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-01 20:06:18,564 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-01 20:06:18,597 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 167 resources
+2020-04-01 20:06:18,626 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-01 20:06:18,627 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hung_LOL\Downloads\TTTNHung-master\TTTNHung-master\src\test\resources
+2020-04-01 20:24:21,384 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
